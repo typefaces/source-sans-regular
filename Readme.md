@@ -1,11 +1,10 @@
-
 # source-sans-regular
   
   The [Source Sans](https://typekit.com/fonts/source-sans-pro) regular typeface.
 
 ## Installation
 
-    $ component install typeface/source-sans-regular
+    $ component install typefaces/source-sans-regular
 
 ## License
 
